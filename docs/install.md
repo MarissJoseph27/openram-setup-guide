@@ -57,4 +57,22 @@ Enter the Nix development environment with:
 nix develop
 ```
 
+## Environment Variables
+
+Set OpenRAM paths using:
+
+```bash
+export OPENRAM_HOME="$HOME/OpenRAM/compiler"
+export OPENRAM_TECH="$HOME/OpenRAM/technology"
+export PYTHONPATH=$OPENRAM_HOME
+```
+
+## Setup Sky130pdk
+
+```bash
+cd $HOME/OpenRAM
+make sky130-pdk
+make sky130-install
+```
+
 
