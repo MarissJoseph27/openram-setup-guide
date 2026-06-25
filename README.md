@@ -17,6 +17,7 @@ OpenRAM is an open-source memory compiler that generates SRAM macros for various
 The full documentation is available through GitHub Pages:
 
 [OpenRAM Setup Guide](https://github.com/MarissJoseph27/openram-setup-guide)
+
 For futher information, please refer to OpenRAM's github page:https://github.com/VLSIDA/OpenRAM
 
 
