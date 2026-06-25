@@ -1,12 +1,13 @@
 # OpenRAM Installation
 
-## Step 1: Clone OpenRAM
+## Clone OpenRAM
 
 ```bash
 git clone https://github.com/VLSIDA/OpenRAM.git
 cd OpenRAM
 ```
-For more information refer to https://github.com/VLSIDA/OpenRAM/blob/stable/docs/source/basic_setup.md
+For more information refer to the OpenRAM website:
+https://github.com/VLSIDA/OpenRAM/blob/stable/docs/source/basic_setup.md
 
 
 ## Dependencies
@@ -30,7 +31,8 @@ sudo apt install git make python3 python3-pip python3-venv
 ```bash
 curl -fsSL https://install.determinate.systems/nix | sh -s -- install
 ```
-For further installation guidance visit https://nixos.org/download/
+For further installation guidance refer to the nix website:
+https://nixos.org/download/
 
 After installation, restart terminal. 
 
