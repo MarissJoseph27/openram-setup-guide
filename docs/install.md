@@ -10,6 +10,10 @@ cd OpenRAM
 
 ## Dependencies
 
+- Git
+- Make
+- Python 3.5+
+- Nix (recommended)
 
 
 ## Install Git, Make, Python
